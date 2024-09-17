@@ -1,0 +1,4 @@
+api_data:
+    path: /data
+    controller: App\Controller\ApiController::getData
+    methods: GET
